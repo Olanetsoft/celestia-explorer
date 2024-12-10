@@ -9,14 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tanstack/react-query": "^4.29.0",
+    "lucide-react": "^0.468.0",
+    "next": "14.2.16",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.16"
+    "recharts": "^2.14.1"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.16"
+    "eslint-config-next": "14.2.16",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
   }
 }
